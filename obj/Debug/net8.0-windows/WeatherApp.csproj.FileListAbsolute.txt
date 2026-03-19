@@ -1,0 +1,17 @@
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.exe
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.deps.json
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.runtimeconfig.json
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.dll
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\bin\Debug\net8.0-windows\WeatherApp.pdb
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.AssemblyInfo.cs
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.csproj.Up2Date
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.dll
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\refint\WeatherApp.dll
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.pdb
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\WeatherApp.genruntimeconfig.cache
+C:\Users\Carpi\Desktop\weather interface app\WeatherApp\obj\Debug\net8.0-windows\ref\WeatherApp.dll
